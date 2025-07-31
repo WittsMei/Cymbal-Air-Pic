@@ -1,3 +1,4 @@
 # Cymbal-Air-Pic
 
-<img width="2006" height="784" alt="be87473e-3d7b-4641-8c5b-f1b0efbe7d68" src="https://github.com/user-attachments/assets/205b7160-a614-46a8-8243-266c323ce8f8" />
+<img width="2018" height="1302" alt="677d6624-406c-4abb-852e-f89e0d7140dc" src="https://github.com/user-attachments/assets/72c125c5-2fff-49de-84ed-69904ee42d38" />
+
